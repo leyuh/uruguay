@@ -1,0 +1,41 @@
+#header-div {
+    height: 60px;
+    width: 100vw;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    background-color: rgb(21, 32, 59);
+
+    display: flex;
+    align-items: center;
+
+    border: 5px double rgb(219, 168, 14);
+    box-sizing: border-box;
+    color: white;
+    font-size: 18px;
+}
+
+#sun-img {
+    height: 40px;
+    width: 40px;
+    right: 5px;
+    position: absolute;
+    top: 5px;
+}
+
+#header-list {
+    list-style-type: none;
+    position: absolute;
+    left: -20px;
+    top: 5px;
+}
+
+.header-item {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+    color: rgb(219, 168, 14);
+}
