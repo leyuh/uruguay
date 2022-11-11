@@ -1,6 +1,26 @@
+body {
+    overflow: hidden;
+}
 .app {
     overflow: hidden;
     font-family: "Optima";
     font-weight: 100;
     color: white;
+}
+
+.main-div {
+    background-color: rgb(8, 16, 24);
+    position: fixed;
+    top: 60px;
+    height: calc(100vh - 300px);
+    width: 100vw;
+    left: 0px;
+    z-index: 2;
+    overflow: scroll;
+    padding: 15px;
+}
+
+.main-div > p {
+    width: 60%;
+    text-indent: 20px;
 }

@@ -8,6 +8,7 @@
 
     border: 5px double rgb(219, 168, 14);
     box-sizing: border-box;
+    z-index: 5;
 }
 
 #footer-title {

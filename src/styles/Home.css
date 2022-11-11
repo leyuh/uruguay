@@ -1,0 +1,35 @@
+#home-background-img {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0%;
+    filter: blur(2px) brightness(60%);
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+}
+
+#home-sun-img {
+    position: absolute;
+    z-index: 3;
+    height: 60%;
+}
+
+#home-div {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 60px);
+    top: 60px;
+    z-index: 6;
+}
+
+#home-uruguay-title{
+    z-index: 3;
+    position: relative;
+    top: 40%;
+    font-weight: 100;
+    font-size: 50px;
+}

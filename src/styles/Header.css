@@ -13,15 +13,9 @@
     box-sizing: border-box;
     color: white;
     font-size: 18px;
+    z-index: 5;
 }
 
-#sun-img {
-    height: 40px;
-    width: 40px;
-    right: 5px;
-    position: absolute;
-    top: 5px;
-}
 
 #header-list {
     list-style-type: none;

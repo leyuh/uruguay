@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/Footer.css';
 
 function Footer (props) {
-    const SOURCES = ["https://nomadicboys.com/interesting-facts-about-uruguay/", "https://heyexplorer.com/what-is-uruguay-known-for/", "https://www.guruguay.com/average-income-in-uruguay/", "https://www.from-uruguay.com/2005/12/christmas-in-uruguay.html", "https://theculturetrip.com/south-america/uruguay/articles/how-to-spend-christmas-and-new-years-in-uruguay/", "https://en.wikipedia.org/wiki/Luis_Lacalle_Pou", "https://www.codigodelsur.com/blog/christmas-in-uruguay#", "https://www.thingstodopost.org/the-10-best-sights-landmarks-in-uruguay-uruguay-666485", "http://countrylicious.com/uruguay/famous-people"];
+    const SOURCES = ["https://nomadicboys.com/interesting-facts-about-uruguay/", "https://heyexplorer.com/what-is-uruguay-known-for/", "https://www.guruguay.com/average-income-in-uruguay/", "https://www.from-uruguay.com/2005/12/christmas-in-uruguay.html", "https://theculturetrip.com/south-america/uruguay/articles/how-to-spend-christmas-and-new-years-in-uruguay/", "https://en.wikipedia.org/wiki/Luis_Lacalle_Pou", "https://www.codigodelsur.com/blog/christmas-in-uruguay#", "https://www.thingstodopost.org/the-10-best-sights-landmarks-in-uruguay-uruguay-666485", "http://countrylicious.com/uruguay/famous-people", "https://en.wikipedia.org/wiki/History_of_Uruguay", "https://en.wikipedia.org/wiki/List_of_wars_involving_Uruguay"];
 
     return <div id="footer-div">
         <h1 id="footer-title">SOURCES</h1>
