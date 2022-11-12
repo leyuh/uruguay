@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71fab743.css",
+    "main.js": "/static/js/main.b275951e.js",
+    "static/media/scenery.jpeg": "/static/media/scenery.dcfe281c721f40f757a7.jpeg",
+    "static/media/sun2.png": "/static/media/sun2.f9622ec7ddbfebdc2290.png",
+    "static/media/smallmap.png": "/static/media/smallmap.bfba75726105c3d17532.png",
+    "static/media/sun.png": "/static/media/sun.3a57d66fd1778a102f64.png",
+    "static/media/christmas.jpeg": "/static/media/christmas.b653931b80db49c9b908.jpeg",
+    "static/media/luis.jpeg": "/static/media/luis.3e7a89d6806691925239.jpeg",
+    "static/media/chinchilla.jpeg": "/static/media/chinchilla.86befa7c21141af7b253.jpeg",
+    "static/media/asado.jpeg": "/static/media/asado.b14bd0166b0a49c18e39.jpeg",
+    "static/media/cattle.jpeg": "/static/media/cattle.0247290ffa79a71a0ff1.jpeg",
+    "static/media/flag.png": "/static/media/flag.be16107022891cad4709.png",
+    "static/media/bigmap.webp": "/static/media/bigmap.5b6e07c141d5923875f5.webp",
+    "static/media/fingers.jpeg": "/static/media/fingers.f79864b053c86970aa55.jpeg",
+    "index.html": "/index.html",
+    "main.71fab743.css.map": "/static/css/main.71fab743.css.map",
+    "main.b275951e.js.map": "/static/js/main.b275951e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fab743.css",
+    "static/js/main.b275951e.js"
+  ]
+}
