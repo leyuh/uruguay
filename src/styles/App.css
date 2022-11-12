@@ -10,17 +10,65 @@ body {
 
 .main-div {
     background-color: rgb(8, 16, 24);
-    position: fixed;
+    position: absolute;
     top: 60px;
-    height: calc(100vh - 300px);
+    height: calc(100vh - 60px);
     width: 100vw;
     left: 0px;
     z-index: 2;
     overflow: scroll;
     padding: 15px;
+    background-image: url('../images/sun2.png');
+    background-repeat: repeat;
+    background-size: 60px;
 }
 
 .main-div > p {
     width: 60%;
     text-indent: 20px;
+    font-size: 20px;
+}
+
+.main-div > h1 {
+    font-size: 35px;
+}
+
+.main-div > h2 {
+    font-size: 25px;
+}
+
+.main-div > img {
+    position: relative;
+    height: 25%;
+    right: 5%;
+    border: 3px solid rgb(219, 168, 14);
+    display: block;
+    float: right;
+}
+
+.imgDiv {
+    position: relative;
+    height: fit-content;
+    float: right;
+    width: 30%;
+    right: 5%;
+    padding: 10px;
+}
+
+.imgDiv > img {
+    width: 70%;
+    display: block;
+    position: relative;
+    margin-bottom: 10px;
+    border: 3px solid rgb(219, 168, 14);
+}
+
+#map {
+    float: right;
+}
+#cattle {
+    float: left;
+}
+#flag {
+    float: right;
 }

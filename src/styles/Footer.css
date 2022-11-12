@@ -1,9 +1,9 @@
 #footer-div {
     height: 240px;
     width: 100vw;
-    position: fixed;
-    left: 0px;
-    bottom: 0px;
+    position: relative;
+    left: -15px;
+    margin-top: 20vh;
     background-color: #15293d;
 
     border: 5px double rgb(219, 168, 14);

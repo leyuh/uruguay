@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Header from './components/Header';
-import Footer from './components/Footer';
 import Home from './components/Home';
 import FastFacts from './components/Page1';
 import Navidad from './components/Page2';
@@ -33,7 +32,6 @@ function App() {
     <div className="app">
       <Header sections={SECTIONS} setCurrentPage={setCurrentPage}/>
       {displayCurrentPage()}
-      <Footer/>
     </div>
   );
 }
